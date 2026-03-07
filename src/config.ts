@@ -59,7 +59,7 @@ export const siteConfig: SiteConfig = {
 	apps: [
 		{
 			name: "私人AI网站",
-			url: "https://ai0728.com.cn/",
+			url: "https://bilibili.com/",
 			image: "/favicon/openwebui.webp",
 			description: "智能对话与创作助手",
 			external: true,
